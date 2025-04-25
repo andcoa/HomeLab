@@ -14,7 +14,7 @@ This project outlines the process of building a cybersecurity home lab. It cover
 ### Tools Used
 
 - VMware/VirtualBox: For creating and managing virtual machines.
-- Windows 10, Kali Linux: Operating systems used for attack and defense.
+- Windows 10, Kali Linux, Ubuntu: Operating systems used for attack and defense.
 - Splunk: For centralized log management and analysis.
 - Sysmon: For monitoring and generating detailed system telemetry.
 
