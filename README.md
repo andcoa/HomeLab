@@ -23,7 +23,8 @@ Used the following config file to set up Sysmon.
 
 Installed Sysmon using Powershell on the Windows VM with the Sysmon config from above.
 
-![image](https://github.com/user-attachments/assets/fc613a7d-94e3-4631-be51-a9db607e946a)
+![image](https://github.com/user-attachments/assets/d8ead9f1-22c2-440c-a8a8-aaa96bff391a)
+
 
 
 
