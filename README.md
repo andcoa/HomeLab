@@ -8,6 +8,18 @@ Each machine is set up with the default NAT network settings, however they will 
 
 ![image](https://github.com/user-attachments/assets/9fe046f2-784b-436b-ab09-12471447aae5)
 
+Assigned a static IP to the Windows VM.
+
+![image](https://github.com/user-attachments/assets/8ca81762-cdd5-461f-8369-eb6455bdc00e)
+
+Assigned a static IP to the Kali VM.
+
+![image](https://github.com/user-attachments/assets/e9e416e1-3cba-4f3d-a0e3-5cd46246191e)
+
+Pinging the Kali VM from the Windows VM to check connectivity.
+
+![image](https://github.com/user-attachments/assets/f48dfb1b-4047-4c6d-aa07-98d2da8c3cf4)
+
 
 Setting up the Splunk Enterprise environment to intake logs from the Windows Virtual Machine.
 
