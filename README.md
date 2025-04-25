@@ -1,4 +1,4 @@
-# Splunk
+# Home Lab Setup
 
 Setting up the Splunk environment to intake logs from the Windows Virtual Machine.
 
