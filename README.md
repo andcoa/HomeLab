@@ -1,6 +1,7 @@
 # Home Lab Setup
 
 Set up three Virtual Machines consisting of Kali Linux, Ubuntu, and Windows 10.
+
 ![image](https://github.com/user-attachments/assets/08835c28-8a1c-4f20-8572-f64a509fb51e)
 
 Each machine is set up with the default NAT network settings, however they will be switched to Internal Network for Malware Analysis to not put my host at risk.
