@@ -1,4 +1,4 @@
-# Home Lab Setup
+# SOC Home Lab Setup
 
 Set up three Virtual Machines consisting of Kali Linux, Ubuntu, and Windows 10.
 
