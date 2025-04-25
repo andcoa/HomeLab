@@ -4,7 +4,7 @@ Set up three Virtual Machines consisting of Kali Linux, Ubuntu, and Windows 10.
 
 ![image](https://github.com/user-attachments/assets/08835c28-8a1c-4f20-8572-f64a509fb51e)
 
-Each machine is set up with the default NAT network settings, however they will be switched to Internal Network for Malware Analysis to not put my host at risk.
+Each machine is set up with the default NAT network settings, however they will be switched to the Internal Network and assigned static IPs to not put my host at risk when conducting Malware Analysis and Threat Hunting.
 
 ![image](https://github.com/user-attachments/assets/9fe046f2-784b-436b-ab09-12471447aae5)
 
