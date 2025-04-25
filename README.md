@@ -1,5 +1,23 @@
 # SOC Home Lab Setup
 
+## Objective
+
+This project outlines the process of building a cybersecurity home lab. It covers the installation and configuration of virtual machines (VMs), setting up networking between VMs, generating attack telemetry, and analyzing data using Splunk and Sysmon.
+
+### Skills Learned
+
+- Setting up and configuring virtual machines using VMware or VirtualBox.
+- Configuring networking between multiple VMs to simulate real-world environments.
+- Setting up Splunk and Sysmon for security event correlation.
+- Understanding and applying cybersecurity attack techniques in a controlled environment.
+
+### Tools Used
+
+- VMware/VirtualBox: For creating and managing virtual machines.
+- Windows 10, Kali Linux: Operating systems used for attack and defense.
+- Splunk: For centralized log management and analysis.
+- Sysmon: For monitoring and generating detailed system telemetry.
+
 Set up three Virtual Machines consisting of Kali Linux, Ubuntu, and Windows 10.
 
 ![image](https://github.com/user-attachments/assets/08835c28-8a1c-4f20-8572-f64a509fb51e)
