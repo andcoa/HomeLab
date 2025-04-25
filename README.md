@@ -39,7 +39,7 @@ Pinging the Kali VM from the Windows VM to check connectivity.
 ![image](https://github.com/user-attachments/assets/f48dfb1b-4047-4c6d-aa07-98d2da8c3cf4)
 
 
-Setting up the Splunk Enterprise environment to intake logs from the Windows Virtual Machine.
+Setting up the Splunk Enterprise environment to intake logs from the Windows VM.
 
 ![image](https://github.com/user-attachments/assets/29d2a3e9-6bc8-4b62-aeb7-d22d7527e7e0)
 
