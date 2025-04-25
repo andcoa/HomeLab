@@ -11,3 +11,7 @@ Each machine is set up with the default NAT network settings, however they will 
 Setting up the Splunk Enterprise environment to intake logs from the Windows Virtual Machine.
 
 ![image](https://github.com/user-attachments/assets/29d2a3e9-6bc8-4b62-aeb7-d22d7527e7e0)
+
+Logs from the Windows VM are displayed accordingly.
+
+![image](https://github.com/user-attachments/assets/0db1cb81-58b6-4def-9d7d-c50c68da1b8f)
