@@ -28,7 +28,8 @@ Installed Sysmon using Powershell on the Windows VM with the Sysmon config above
 Confirming Sysmon was succesfully installed.
 
 ![image](https://github.com/user-attachments/assets/82397391-b51a-4b2d-bf4f-4700f1202735)
-![image](https://github.com/user-attachments/assets/e750975e-71b4-4c84-b31b-11711737bfae)
+![image](https://github.com/user-attachments/assets/0df290b5-f3c1-43a8-bdf7-6e0ae9b545f0)
+
 
 
 
