@@ -16,3 +16,14 @@ Setting up the Splunk Enterprise environment to intake logs from the Windows Vir
 Splunk is displaying logs from the Windows VM accordingly.
 
 ![image](https://github.com/user-attachments/assets/0db1cb81-58b6-4def-9d7d-c50c68da1b8f)
+
+Used the following config file to set up Sysmon.
+
+![image](https://github.com/user-attachments/assets/957cd6cc-be5c-4f65-a811-ecda2db08a3c)
+
+Installed Sysmon using Powershell on the Windows VM with the Sysmon config from above.
+
+![image](https://github.com/user-attachments/assets/fc613a7d-94e3-4631-be51-a9db607e946a)
+
+
+
