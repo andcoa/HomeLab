@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project outlines the process of building a SOC Home Lab. It covers the installation and configuration of virtual machines (VMs), setting up networking between VMs, and setting up Splunk and Sysmon for ingesting telemtry.
+This project outlines the process of building a SOC Home Lab. It covers the installation and configuration of virtual machines (VMs), setting up networking between VMs, and setting up Splunk and Sysmon for ingesting telemtry. The home lab is the foundation on which the other projects will be build and ran accordingly.
 
 ## Skills Learned
 
