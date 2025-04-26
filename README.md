@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project outlines the process of building a cybersecurity home lab. It covers the installation and configuration of virtual machines (VMs), setting up networking between VMs, generating attack telemetry, and analyzing data using Splunk and Sysmon.
+This project outlines the process of building a SOC Home Lab. It covers the installation and configuration of virtual machines (VMs), setting up networking between VMs, generating attack telemetry, and analyzing data using Splunk and Sysmon.
 
 ### Skills Learned
 
