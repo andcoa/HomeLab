@@ -4,14 +4,14 @@
 
 This project outlines the process of building a SOC Home Lab. It covers the installation and configuration of virtual machines (VMs), setting up networking between VMs, and setting up Splunk and Sysmon for ingesting telemtry.
 
-### Skills Learned
+## Skills Learned
 
 - Setting up and configuring virtual machines using VMware or VirtualBox.
 - Configuring networking between multiple VMs to simulate real-world environments.
 - Setting up Splunk and Sysmon for security event correlation.
 - Understanding and applying cybersecurity attack techniques in a controlled environment.
 
-### Tools Used
+## Tools Used
 
 - VMware/VirtualBox: For creating and managing virtual machines.
 - Windows 10, Kali Linux, Ubuntu: Operating systems used for attack and defense.
